@@ -3,6 +3,8 @@ This is the repository to store the code and report of the NYU ECE-7123 Project 
 
 # Team Members
 Agustin Leon Neunez
+
 Akhil Manoj
+
 Anup Raj Niroula
 
