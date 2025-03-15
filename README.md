@@ -4,7 +4,7 @@ This is the repository to store the code and report of the NYU ECE-7123 Project 
 In order to run the model simply execute the Jupyter notebook file.
 
 # Team Members
-Agustin Leon Neunez
+Agustin Leon
 
 Akhil Manoj
 
